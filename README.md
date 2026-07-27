@@ -203,9 +203,6 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY_TTL:start-->
-<!--RECENT_ACTIVITY_TTL:end-->
-
 <br/>
 
 ---
