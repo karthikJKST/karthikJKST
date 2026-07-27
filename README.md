@@ -41,10 +41,7 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <!-- Screenshot: assets/weekdays-dashboard.png -->
-      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 60px 20px; text-align: center;">
-        <span style="color: #8b949e;">Dashboard Preview</span>
-      </div>
+      <img src="assets/weekdays-dashboard.svg" width="100%" alt="WeekDays Dashboard"/>
     </td>
     <td width="45%" valign="top">
       <h2 style="margin-top: 0;">WeekDays</h2>
@@ -86,10 +83,7 @@
       <a href="https://github.com/karthikJKST/StockFlow" style="border: 1px solid #30363d; color: #f0f6fc; padding: 8px 20px; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">Repository</a>
     </td>
     <td width="55%" valign="top">
-      <!-- Screenshot: assets/stockflow-market.png -->
-      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 60px 20px; text-align: center;">
-        <span style="color: #8b949e;">Market Overview</span>
-      </div>
+      <img src="assets/stockflow-market.svg" width="100%" alt="StockFlow Market Overview"/>
     </td>
   </tr>
 </table>
@@ -102,10 +96,7 @@
   <tr>
     <td width="50%" valign="top">
       <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
-        <!-- Screenshot: assets/hirepilot-interview.png -->
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 40px 20px; text-align: center; margin-bottom: 16px;">
-          <span style="color: #8b949e; font-size: 0.85rem;">Interview Preview</span>
-        </div>
+        <img src="assets/hirepilot-interview.svg" width="100%" alt="HirePilot Interview"/>
         <h3 style="margin: 0 0 4px;">HirePilot</h3>
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 8px;">AI interview prep with Gemini question generation and resume matching.</p>
         <p style="margin: 0 0 12px;">

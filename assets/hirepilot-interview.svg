@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#0d1117" rx="4"/>
+  <!-- Top bar -->
+  <rect x="0" y="0" width="640" height="44" fill="#161b22"/>
+  <circle cx="20" cy="22" r="4" fill="#ff5f56"/>
+  <circle cx="34" cy="22" r="4" fill="#ffbd2e"/>
+  <circle cx="48" cy="22" r="4" fill="#27c93f"/>
+  <text x="320" y="28" font-family="system-ui, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">HirePilot — Interview Session</text>
+  <!-- AI Score card -->
+  <rect x="16" y="56" width="180" height="72" rx="6" fill="#161b22" stroke="rgba(88,166,255,0.2)" stroke-width="0.5"/>
+  <text x="106" y="76" font-family="system-ui, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Overall Score</text>
+  <text x="106" y="106" font-family="system-ui, sans-serif" font-size="24" fill="#58a6ff" text-anchor="middle" font-weight="bold">8.4</text>
+  <text x="160" y="106" font-family="system-ui, sans-serif" font-size="10" fill="#8b949e">/10</text>
+  <!-- Question counter -->
+  <rect x="208" y="56" width="200" height="72" rx="6" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="308" y="76" font-family="system-ui, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Progress</text>
+  <text x="280" y="106" font-family="system-ui, sans-serif" font-size="24" fill="#f0f6fc" text-anchor="middle" font-weight="bold">4</text>
+  <text x="300" y="106" font-family="system-ui, sans-serif" font-size="10" fill="#8b949e">/ 10</text>
+  <!-- Progress bar -->
+  <rect x="280" y="116" width="100" height="4" rx="2" fill="#30363d"/>
+  <rect x="280" y="116" width="40" height="4" rx="2" fill="#58a6ff"/>
+  <!-- Timer -->
+  <rect x="420" y="56" width="100" height="72" rx="6" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="470" y="76" font-family="system-ui, sans-serif" font-size="10" fill="#8b949e" text-anchor="middle">Time</text>
+  <text x="470" y="106" font-family="system-ui, sans-serif" font-size="24" fill="#f0f6fc" text-anchor="middle" font-weight="bold">2:45</text>
+  <!-- Question area -->
+  <rect x="16" y="140" width="608" height="56" rx="6" fill="#161b22" stroke="rgba(88,166,255,0.15)" stroke-width="0.5"/>
+  <text x="106" y="160" font-family="system-ui, sans-serif" font-size="9" fill="#58a6ff">Question 4</text>
+  <text x="32" y="180" font-family="system-ui, sans-serif" font-size="11" fill="#f0f6fc">Explain the difference between an abstract class and an interface in Java.</text>
+  <!-- Answer area -->
+  <rect x="16" y="208" width="400" height="100" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="32" y="230" font-family="system-ui, sans-serif" font-size="9" fill="#8b949e">Your answer...</text>
+  <text x="32" y="250" font-family="system-ui, sans-serif" font-size="9" fill="#8b949e">An abstract class can have both abstract and concrete methods,</text>
+  <text x="32" y="266" font-family="system-ui, sans-serif" font-size="9" fill="#8b949e">while an interface traditionally had only abstract methods...</text>
+  <rect x="32" y="284" width="60" height="16" rx="3" fill="#238636"/>
+  <text x="62" y="295" font-family="system-ui, sans-serif" font-size="8" fill="white" text-anchor="middle">Submit</text>
+  <!-- AI Feedback panel -->
+  <rect x="428" y="208" width="196" height="100" rx="6" fill="#161b22" stroke="rgba(63,185,80,0.15)" stroke-width="0.5"/>
+  <text x="440" y="228" font-family="system-ui, sans-serif" font-size="9" fill="#3fb950">AI Feedback</text>
+  <text x="440" y="248" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Communication: 8/10</text>
+  <text x="440" y="264" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Technical: 7/10</text>
+  <text x="440" y="280" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Confidence: 9/10</text>
+  <text x="440" y="296" font-family="system-ui, sans-serif" font-size="8" fill="#3fb950">Good explanation of concepts!</text>
+  <!-- Score categories -->
+  <rect x="16" y="320" width="608" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="30" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Communication 8</text>
+  <text x="130" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Technical 7</text>
+  <text x="220" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Confidence 9</text>
+  <text x="310" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Grammar 8</text>
+  <text x="390" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Problem Solving 7</text>
+  <text x="490" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Completeness 9</text>
+  <text x="580" y="338" font-family="system-ui, sans-serif" font-size="8" fill="#8b949e">Professionalism 8</text>
+</svg>
