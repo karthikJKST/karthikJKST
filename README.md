@@ -62,11 +62,11 @@
       <p style="color: #3fb950; font-size: 0.8rem; margin: 0 0 10px;">● Live in Production</p>
       <p style="color: #8b949e; font-size: 0.88rem; margin: 0 0 12px; line-height: 1.5;">Project management platform with Kanban boards, real-time task tracking, and team collaboration.</p>
       <p style="margin: 0 0 12px;">
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">Spring Boot 3</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">React 19</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">PostgreSQL</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">Docker</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">JWT</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.72rem;">Spring Boot 3</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.72rem;">React 19</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.72rem;">PostgreSQL</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.72rem;">Docker</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.72rem;">JWT</code>
       </p>
       <p style="color: #8b949e; font-size: 0.8rem; margin: 0 0 12px;">JWT auth · Flyway migrations · RBAC · Docker Compose · CI/CD</p>
       <p>
@@ -90,9 +90,9 @@
       <p style="color: #3fb950; font-size: 0.75rem; margin: 0 0 6px;">● Live</p>
       <p style="color: #8b949e; font-size: 0.82rem; margin: 0 0 8px;">Real-time stock analysis with WebSocket streaming and portfolio tracking.</p>
       <p style="margin: 0 0 8px;">
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Spring Boot</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">WebSocket</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">React</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">Spring Boot</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">WebSocket</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">React</code>
       </p>
       <p><a href="https://stock-flow-ashen.vercel.app" style="color: #58a6ff; font-size: 0.85rem; text-decoration: none;">Live →</a> · <a href="https://github.com/karthikJKST/StockFlow" style="color: #8b949e; font-size: 0.85rem; text-decoration: none;">Repo</a></p>
     </td>
@@ -104,9 +104,9 @@
       <p style="color: #3fb950; font-size: 0.75rem; margin: 0 0 6px;">● Live</p>
       <p style="color: #8b949e; font-size: 0.82rem; margin: 0 0 8px;">AI interview preparation with Gemini question generation and scoring.</p>
       <p style="margin: 0 0 8px;">
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">FastAPI</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Gemini</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">React</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">FastAPI</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">Gemini</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">React</code>
       </p>
       <p><a href="https://ai-career-assistant-b9cs.onrender.com" style="color: #58a6ff; font-size: 0.85rem; text-decoration: none;">Live →</a> · <a href="https://github.com/karthikJKST/AI-Career-Assistant" style="color: #8b949e; font-size: 0.85rem; text-decoration: none;">Repo</a></p>
     </td>
@@ -118,9 +118,9 @@
       <p style="color: #d29922; font-size: 0.75rem; margin: 0 0 6px;">● Beta</p>
       <p style="color: #8b949e; font-size: 0.82rem; margin: 0 0 8px;">AI desktop assistant with LLM planning and cross-app automation.</p>
       <p style="margin: 0 0 8px;">
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Python</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">LLM</code>
-        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Desktop</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">Python</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">LLM</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 6px; font-size: 0.68rem;">Desktop</code>
       </p>
       <p><a href="https://github.com/karthikJKST/PHOENIX" style="color: #8b949e; font-size: 0.85rem; text-decoration: none;">Repo →</a></p>
     </td>
@@ -173,6 +173,8 @@
 </p>
 
 </div>
+
+<br/>
 
 <h2 align="center" style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 20px; letter-spacing: -0.5px;">Engineering Philosophy</h2>
 
