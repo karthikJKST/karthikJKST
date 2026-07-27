@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 52" width="100%" height="52">
+  <defs>
+    <linearGradient id="shimmer" gradientTransform="translate(-1, 0)">
+      <stop offset="0%" stop-color="#f0f6fc"/>
+      <stop offset="35%" stop-color="#f0f6fc"/>
+      <stop offset="45%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#58a6ff"/>
+      <stop offset="65%" stop-color="#f0f6fc"/>
+      <stop offset="100%" stop-color="#f0f6fc"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1,0;1,0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text x="230" y="36" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#shimmer)" letter-spacing="-0.5">Jana Karthik Siva Teja</text>
+</svg>

@@ -1,29 +1,42 @@
-<div align="center">
+<div align="center" style="padding: 24px 0 12px;">
 
-<h1 style="font-size: 2.4rem; font-weight: 700; color: #f0f6fc; margin: 0 0 4px; letter-spacing: -1px;">Jana Karthik Siva Teja</h1>
+<p style="color: #3fb950; font-size: 0.78rem; margin: 0 0 24px; letter-spacing: 0.5px;">
+  <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #3fb950; margin-right: 6px; vertical-align: middle;"></span>
+  Open to Software Engineering Opportunities
+</p>
 
-<p style="color: #58a6ff; font-size: 0.9rem; letter-spacing: 1.5px; text-transform: uppercase; margin: 0 0 12px; font-weight: 500;">Java Backend Engineer</p>
+<img src="assets/name-shimmer.svg" width="460" height="52" alt="Jana Karthik Siva Teja" style="max-width: 90%;"/>
 
-<p style="color: #8b949e; max-width: 480px; margin: 0 auto 16px; font-size: 0.95rem; line-height: 1.6;">
+<p style="color: #58a6ff; font-size: 0.9rem; letter-spacing: 1.5px; text-transform: uppercase; margin: 12px 0 16px; font-weight: 500;">Java Backend Engineer</p>
+
+<p style="color: #8b949e; max-width: 480px; margin: 0 auto 24px; font-size: 0.95rem; line-height: 1.7;">
   I build production-grade backend systems using Spring Boot, PostgreSQL, Docker, and React.
 </p>
 
 <p>
-  <a href="https://github.com/karthikJKST/karthik-portfolio" style="display: inline-block; background: #238636; color: #fff; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 500;">Portfolio</a>
-  <span style="display: inline-block; width: 6px;"></span>
-  <a href="jana_karthik_siva_teja_Resume.pdf" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">Resume</a>
-  <span style="display: inline-block; width: 6px;"></span>
-  <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">LinkedIn</a>
-  <span style="display: inline-block; width: 6px;"></span>
-  <a href="mailto:karthikshivatejaj@gmail.com" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">Email</a>
+  <a href="https://github.com/karthikJKST/karthik-portfolio" style="display: inline-block; background: #238636; color: #fff; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-size: 0.85rem; font-weight: 500; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">Portfolio</a>
+  <span style="display: inline-block; width: 8px;"></span>
+  <a href="jana_karthik_siva_teja_Resume.pdf" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-size: 0.85rem; box-shadow: 0 1px 2px rgba(0,0,0,0.2);">Resume</a>
+  <span style="display: inline-block; width: 8px;"></span>
+  <a href="https://github.com/karthikJKST" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-size: 0.85rem; box-shadow: 0 1px 2px rgba(0,0,0,0.2);">GitHub</a>
+  <span style="display: inline-block; width: 8px;"></span>
+  <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-size: 0.85rem; box-shadow: 0 1px 2px rgba(0,0,0,0.2);">LinkedIn</a>
+  <span style="display: inline-block; width: 8px;"></span>
+  <a href="mailto:karthikshivatejaj@gmail.com" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-size: 0.85rem; box-shadow: 0 1px 2px rgba(0,0,0,0.2);">Email</a>
 </p>
 
-<p style="color: #8b949e; font-size: 0.8rem; margin: 16px 0 0;">
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 16px;">6+ Projects</code>
-  <span style="margin: 0 4px;">·</span>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 16px;">3 Live Apps</code>
-  <span style="margin: 0 4px;">·</span>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 16px;">30+ REST APIs</code>
+<p style="color: #8b949e; font-size: 0.8rem; margin: 20px 0 0;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 20px; font-size: 0.78rem;">6+ Projects</code>
+  <span style="margin: 0 6px; color: #30363d;">·</span>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 20px; font-size: 0.78rem;">3 Live Apps</code>
+  <span style="margin: 0 6px; color: #30363d;">·</span>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 20px; font-size: 0.78rem;">30+ REST APIs</code>
+  <br/>
+  <code style="background: rgba(88,166,255,0.06); color: #58a6ff; padding: 4px 14px; border-radius: 20px; font-size: 0.78rem;">Spring Boot</code>
+  <span style="margin: 0 6px; color: #30363d;">·</span>
+  <code style="background: rgba(88,166,255,0.06); color: #58a6ff; padding: 4px 14px; border-radius: 20px; font-size: 0.78rem;">Docker</code>
+  <span style="margin: 0 6px; color: #30363d;">·</span>
+  <code style="background: rgba(88,166,255,0.06); color: #58a6ff; padding: 4px 14px; border-radius: 20px; font-size: 0.78rem;">PostgreSQL</code>
 </p>
 
 </div>
