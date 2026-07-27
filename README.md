@@ -129,165 +129,64 @@
 
 <br/>
 
-<h2 align="center" style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 24px; letter-spacing: -0.5px;">Tech Stack</h2>
+<h2 style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 24px; text-align: center; letter-spacing: -0.5px;">Tech Stack</h2>
 
-<table style="width: 100%; max-width: 680px; margin: 0 auto;">
-  <tr>
-    <td colspan="2" style="padding: 0 0 4px 0;">
-      <span style="color: #8b949e; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase;">Languages</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 0;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">J</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Java</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">P</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Python</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">TS</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">TypeScript</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">JS</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">JavaScript</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 0 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">S</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">SQL</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" style="padding: 12px 0 4px 0;">
-      <span style="color: #8b949e; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase;">Backend</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 0;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.7rem; font-weight: 600;">SB</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Spring Boot</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.7rem; font-weight: 600;">SS</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Spring Security</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">F</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">FastAPI</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">J</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">JWT</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 0 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.65rem; font-weight: 600;">WS</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">WebSocket</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" style="padding: 12px 0 4px 0;">
-      <span style="color: #8b949e; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase;">Frontend</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 0;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">R</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">React</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">V</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Vite</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">C</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">CSS3</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">&nbsp;</td>
-    <td width="20%" valign="top" style="padding: 0 0 8px 8px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="5" style="padding: 12px 0 4px 0;">
-      <span style="color: #8b949e; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase;">Database</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 0;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.65rem; font-weight: 600;">PG</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">PostgreSQL</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">F</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Flyway</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">&nbsp;</td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">&nbsp;</td>
-    <td width="20%" valign="top" style="padding: 0 0 8px 8px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="5" style="padding: 12px 0 4px 0;">
-      <span style="color: #8b949e; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase;">Cloud &#38; DevOps</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 0;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">D</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Docker</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.6rem; font-weight: 600;">GA</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">GitHub Actions</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">R</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Render</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 8px 8px 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 10px; text-align: center;">
-        <span style="display: inline-block; width: 28px; height: 28px; line-height: 28px; background: rgba(88,166,255,0.12); color: #58a6ff; border-radius: 6px; font-size: 0.75rem; font-weight: 600;">V</span>
-        <p style="margin: 6px 0 0; color: #e6edf3; font-size: 0.72rem;">Vercel</p>
-      </div>
-    </td>
-    <td width="20%" valign="top" style="padding: 0 0 8px 8px;">&nbsp;</td>
-  </tr>
-</table>
+<div style="max-width: 640px; margin: 0 auto;">
+
+<p style="color: #8b949e; font-size: 0.72rem; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px;">Languages</p>
+<p style="margin: 0 0 20px;">
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Java</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Python</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">TypeScript</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">JavaScript</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">SQL</code>
+</p>
+
+<p style="color: #8b949e; font-size: 0.72rem; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px;">Backend</p>
+<p style="margin: 0 0 20px;">
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Spring Boot</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Spring Security</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">FastAPI</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">JWT</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">WebSocket</code>
+</p>
+
+<p style="color: #8b949e; font-size: 0.72rem; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px;">Frontend</p>
+<p style="margin: 0 0 20px;">
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">React</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Vite</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">CSS3</code>
+</p>
+
+<p style="color: #8b949e; font-size: 0.72rem; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px;">Database</p>
+<p style="margin: 0 0 20px;">
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">PostgreSQL</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Flyway</code>
+</p>
+
+<p style="color: #8b949e; font-size: 0.72rem; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px;">Cloud &#38; DevOps</p>
+<p style="margin: 0;">
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Docker</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">GitHub Actions</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Render</code>
+  <span style="margin: 0 4px;"></span>
+  <code style="border: 1px solid #2d333b; border-radius: 8px; padding: 6px 14px; font-size: 0.82rem; color: #e6edf3; background: transparent;">Vercel</code>
+</p>
+
+</div>
 
 <br/>
 
