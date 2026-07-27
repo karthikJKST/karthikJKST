@@ -174,7 +174,7 @@
 
 </div>
 
-<br/>
+<h2 align="center" style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 20px; letter-spacing: -0.5px;">Engineering Philosophy</h2>
 
 <table>
   <tr>
@@ -192,6 +192,22 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikJKST&bg_color=0D1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="80%"/>
+
+<br/><br/>
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=karthikJKST&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&hide=contribs"/>
+
+<br/><br/>
+
+</div>
+
+<br/>
 
 <div align="center" style="padding: 0 0 24px;">
 
