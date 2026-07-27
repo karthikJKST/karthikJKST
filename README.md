@@ -162,6 +162,11 @@
 
 ## 📈 GitHub Analytics
 
+<!-- Auto-generated metrics via GitHub Actions workflow -->
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikJKST&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikJKST&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
@@ -190,6 +195,16 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<br/>
+
+## 🔄 Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY_TTL:start-->
+<!--RECENT_ACTIVITY_TTL:end-->
 
 <br/>
 
