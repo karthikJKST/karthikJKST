@@ -165,7 +165,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 0 12px 0 0;">
-      <a href="assets/phoenix-terminal.svg"><img src="assets/phoenix-terminal.svg" width="100%" alt="Phoenix Terminal" style="display: block; border-radius: 8px; border: 1px solid #30363d;"/></a>
+      <a href="assets/phoenix-terminal.svg"><img src="assets/phoenix-terminal.svg" width="100%" alt="Phoenix Terminal" style="display: block; border-radius: 8px;"/></a>
       <h3 style="margin: 12px 0 2px; font-size: 1.05rem;">Phoenix</h3>
       <p style="color: #d29922; font-size: 0.75rem; margin: 0 0 6px;">● Beta</p>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 10px;">AI desktop assistant with LLM planning and voice control.</p>
