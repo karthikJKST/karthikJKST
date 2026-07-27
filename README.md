@@ -37,29 +37,50 @@ Tools           Git, Maven, IntelliJ, Postman, Linux
 
 ---
 
+## Capabilities
+
+<table>
+  <tr>
+    <td align="center" width="20%"><strong>⚡</strong><br/><span style="color: #f0f6fc;">REST APIs</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Layered architecture</span></td>
+    <td align="center" width="20%"><strong>🔐</strong><br/><span style="color: #f0f6fc;">JWT Auth</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Access/refresh tokens</span></td>
+    <td align="center" width="20%"><strong>🗄</strong><br/><span style="color: #f0f6fc;">PostgreSQL</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Flyway migrations</span></td>
+    <td align="center" width="20%"><strong>🐳</strong><br/><span style="color: #f0f6fc;">Docker</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Multi-stage builds</span></td>
+    <td align="center" width="20%"><strong>🔄</strong><br/><span style="color: #f0f6fc;">WebSocket</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Real-time streaming</span></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><strong>📦</strong><br/><span style="color: #f0f6fc;">CI/CD</span><br/><span style="color: #8b949e; font-size: 0.8rem;">GitHub Actions</span></td>
+    <td align="center" width="20%"><strong>☁</strong><br/><span style="color: #f0f6fc;">Cloud Deploy</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Vercel + Render</span></td>
+    <td align="center" width="20%"><strong>🧪</strong><br/><span style="color: #f0f6fc;">Validation</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Input + rate limit</span></td>
+    <td align="center" width="20%"><strong>🏗</strong><br/><span style="color: #f0f6fc;">Microservices</span><br/><span style="color: #8b949e; font-size: 0.8rem;">CQRS pattern</span></td>
+    <td align="center" width="20%"><strong>📊</strong><br/><span style="color: #f0f6fc;">Monitoring</span><br/><span style="color: #8b949e; font-size: 0.8rem;">Health checks</span></td>
+  </tr>
+</table>
+
+---
+
 ## Architecture
 
 ```mermaid
 flowchart LR
     subgraph Client["Client Layer"]
-        React["React SPA\n(Vite)"]
+        React["React SPA<br/>(Vite)"]
     end
     subgraph API["API Layer"]
-        Controller["Controller\nREST Endpoints"]
-        Auth["JWT Auth Filter\nSpring Security"]
+        Controller["Controller<br/>REST Endpoints"]
+        Auth["JWT Auth Filter<br/>Spring Security"]
     end
     subgraph Service["Service Layer"]
-        ServiceLogic["Business Logic\nServices"]
+        ServiceLogic["Business Logic<br/>Services"]
     end
     subgraph Data["Data Layer"]
-        Repository["JPA Repository\nSpring Data"]
-        Migration["Flyway\nMigrations"]
-        DB[("PostgreSQL\nDatabase")]
+        Repository["JPA Repository<br/>Spring Data"]
+        Migration["Flyway<br/>Migrations"]
+        DB[("PostgreSQL<br/>Database")]
     end
     subgraph Infrastructure["Infrastructure"]
-        Docker["Docker\nContainer"]
-        CI["GitHub Actions\nCI/CD"]
-        Cloud["Vercel / Render\nCloud Deploy"]
+        Docker["Docker<br/>Container"]
+        CI["GitHub Actions<br/>CI/CD"]
+        Cloud["Vercel / Render<br/>Cloud Platform"]
     end
 
     React --> Controller
@@ -72,7 +93,7 @@ flowchart LR
     CI --> Cloud
 ```
 
-**Layered architecture:** Controllers handle HTTP, services contain business logic, repositories manage data access. Every component is containerized, database changes are version-controlled, and deployments are automated.
+**Design:** Controllers handle HTTP, services contain business logic, repositories manage data access. Every component is containerized, database changes are version-controlled, and deployments are automated through CI/CD.
 
 ---
 
@@ -236,7 +257,7 @@ flowchart LR
 #### PHOENIX
 *AI desktop automation assistant*
 
-Modular system with 20+ action modules, LLM-based planning engine, voice interface, and cross-application desktop control via PyAutoGUI.
+Modular system with 20+ action modules, LLM-based planning engine, voice interface, and cross-application desktop control.
 
 **Python · LLM · Desktop Automation · Speech**
 
@@ -248,7 +269,7 @@ Modular system with 20+ action modules, LLM-based planning engine, voice interfa
 #### Diabetic Retinopathy Detection
 *Deep learning for medical imaging*
 
-CNN and ResNet50 architectures for retinal image classification. Flask web interface, OpenCV preprocessing pipeline, trained on benchmark datasets.
+CNN and ResNet50 architectures for retinal image classification. Flask web interface, OpenCV preprocessing, trained on benchmark datasets.
 
 **TensorFlow · CNN · ResNet50 · Flask · OpenCV**
 
@@ -262,7 +283,7 @@ CNN and ResNet50 architectures for retinal image classification. Flask web inter
 #### Portfolio Website
 *Personal developer portfolio*
 
-Glassmorphism design with Framer Motion animations, component-based React architecture, responsive layout, and Vite build system.
+Glassmorphism design with Framer Motion animations, component-based React architecture, responsive layout.
 
 **React · JavaScript · CSS · Vite · Framer Motion**
 
@@ -305,12 +326,24 @@ Glassmorphism design with Framer Motion animations, component-based React archit
 
 ---
 
+## Screenshots
+
+To add visual examples, save screenshots to an `assets` or `screenshots` directory in any repository, then reference them here:
+
+| Project | Suggested Screenshots |
+|---|---|
+| **WeekDays** | Dashboard view, Kanban board, Calendar view, Task list |
+| **StockFlow** | Market overview, Stock detail chart, Portfolio view |
+| **HirePilot** | Interview session, Resume match results, Feedback card |
+
+---
+
 ## Currently
 
 <blockquote>
-  <strong>Building:</strong> Event-driven Spring Boot with CQRS pattern, message queues, and Redis caching
+  <strong>Building:</strong> Event-driven Spring Boot with CQRS pattern, message queues for async processing, and Redis caching
   <br/><br/>
-  <strong>Learning:</strong> Kubernetes orchestration, distributed systems design, integration testing, observability
+  <strong>Learning:</strong> Kubernetes orchestration, distributed systems design, integration testing, observability with structured logging and tracing
 </blockquote>
 
 ---
