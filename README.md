@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- Profile photo: assets/profile.jpg (120x120, circular crop) -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Jana+Karthik+Siva+Teja;Java+Backend+Engineer;Spring+Boot+%C2%B7+React+%C2%B7+PostgreSQL;Building+Production+Systems" alt="Typing SVG"/>
 
 <br/>
@@ -120,11 +122,25 @@
       <a href="https://github.com/karthikJKST/AI-Career-Assistant" style="color: #8b949e; font-size: 0.85rem;">Repo</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 32px 20px; text-align: center; margin-bottom: 12px;">
+        <span style="color: #8b949e; font-size: 0.85rem;">Terminal Preview</span>
+      </div>
+      <h3 style="margin: 0 0 4px;">Phoenix</h3>
+      <p style="color: #d29922; font-size: 0.8rem; margin: 0 0 8px;">● Beta</p>
+      <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px;">AI desktop assistant with LLM planning, voice control, and cross-app automation.</p>
+      <p style="margin: 0 0 12px;">
+        <code style="background: rgba(240,246,252,0.08); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">Python</code>
+        <code style="background: rgba(240,246,252,0.08); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">LLM</code>
+        <code style="background: rgba(240,246,252,0.08); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">Desktop</code>
+      </p>
+      <a href="https://github.com/karthikJKST/PHOENIX" style="color: #8b949e; font-size: 0.85rem;">Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
-
-<br/>
-
----
 
 <br/>
 
@@ -217,22 +233,25 @@ flowchart TB
 
 <table>
   <tr>
-    <td align="center" width="25%" style="padding: 12px;">
+    <td align="center" width="22%" style="padding: 12px;">
       <p style="color: #8b949e; font-size: 0.75rem; margin: 0;">2024</p>
       <p style="color: #f0f6fc; margin: 4px 0; font-size: 0.9rem;">Foundation</p>
       <p style="color: #8b949e; font-size: 0.8rem; margin: 0;">Java · SQL · DSA</p>
     </td>
-    <td align="center" width="25%" style="padding: 12px;">
+    <td align="center" width="4%" style="color: #30363d; font-size: 1.2rem;">→</td>
+    <td align="center" width="22%" style="padding: 12px;">
       <p style="color: #8b949e; font-size: 0.75rem; margin: 0;">2025</p>
       <p style="color: #f0f6fc; margin: 4px 0; font-size: 0.9rem;">Full Stack</p>
       <p style="color: #8b949e; font-size: 0.8rem; margin: 0;">Spring Boot · React · PostgreSQL</p>
     </td>
-    <td align="center" width="25%" style="padding: 12px;">
+    <td align="center" width="4%" style="color: #30363d; font-size: 1.2rem;">→</td>
+    <td align="center" width="22%" style="padding: 12px;">
       <p style="color: #8b949e; font-size: 0.75rem; margin: 0;">2026</p>
       <p style="color: #f0f6fc; margin: 4px 0; font-size: 0.9rem;">DevOps</p>
       <p style="color: #8b949e; font-size: 0.8rem; margin: 0;">Docker · JWT · CI/CD · Cloud</p>
     </td>
-    <td align="center" width="25%" style="background: rgba(88,166,255,0.08); border: 1px solid rgba(88,166,255,0.2); border-radius: 8px; padding: 16px;">
+    <td align="center" width="4%" style="color: #30363d; font-size: 1.2rem;">→</td>
+    <td align="center" width="22%" style="background: rgba(88,166,255,0.08); border: 1px solid rgba(88,166,255,0.2); border-radius: 8px; padding: 16px;">
       <p style="color: #58a6ff; font-size: 0.75rem; margin: 0;">Now</p>
       <p style="color: #f0f6fc; margin: 4px 0; font-size: 0.9rem;">Scale</p>
       <p style="color: #8b949e; font-size: 0.8rem; margin: 0;">Building scalable backend systems</p>
@@ -250,13 +269,21 @@ flowchart TB
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+    <td width="25%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
       <p style="margin: 0 0 8px;"><strong style="color: #f0f6fc;">🔨 Building</strong></p>
-      <p style="margin: 0; color: #8b949e; font-size: 0.85rem;">Event-driven Spring Boot with CQRS pattern, message queues, and Redis caching.</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Event-driven Spring Boot with CQRS, message queues, and Redis caching.</p>
     </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+    <td width="25%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
       <p style="margin: 0 0 8px;"><strong style="color: #f0f6fc;">📖 Learning</strong></p>
-      <p style="margin: 0; color: #8b949e; font-size: 0.85rem;">Kubernetes, distributed systems, observability, and integration testing.</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Kubernetes, distributed systems, observability, testing.</p>
+    </td>
+    <td width="25%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <p style="margin: 0 0 8px;"><strong style="color: #f0f6fc;">🔭 Exploring</strong></p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Domain-driven design, hexagonal architecture, event sourcing.</p>
+    </td>
+    <td width="25%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <p style="margin: 0 0 8px;"><strong style="color: #f0f6fc;">📚 Reading</strong></p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Designing Data-Intensive Applications · Clean Architecture</p>
     </td>
   </tr>
 </table>
