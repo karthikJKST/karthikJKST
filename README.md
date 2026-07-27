@@ -1,5 +1,6 @@
 <div align="center">
   <br/>
+  <!-- Add a professional headshot: assets/profile.jpg (160x160, circular crop recommended) -->
   <h1>Jana Karthik Siva Teja</h1>
   <p style="font-size: 1.15rem; color: #8b949e; max-width: 600px; margin: 0 auto;">
     Software Engineer · Spring Boot · React · PostgreSQL
