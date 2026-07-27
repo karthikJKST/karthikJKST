@@ -85,7 +85,7 @@
 
   <!-- Avatar / Initial badge -->
   <circle cx="200" cy="260" r="65" fill="rgba(108,99,255,0.1)" stroke="url(#accentGrad)" stroke-width="3"/>
-  <text x="200" y="280" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="url(#accentGrad)" text-anchor="middle" font-weight="bold" dominant-baseline="middle">JK</text>
+  <text x="200" y="275" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="url(#accentGrad)" text-anchor="middle" font-weight="bold">JK</text>
 
   <!-- Status indicator dot -->
   <circle cx="248" cy="308" r="8" fill="#22c55e" stroke="#0D1117" stroke-width="3"/>
