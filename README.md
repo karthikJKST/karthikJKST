@@ -31,6 +31,14 @@
 
 <br/>
 
+### Stack
+
+`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `CI/CD` `JWT` `Python` `FastAPI` `REST APIs` `WebSocket`
+
+<br/>
+
+---
+
 ### Featured Project
 
 **WeekDays** &nbsp; <span style="color: #3fb950;">● Production</span>
