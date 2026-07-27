@@ -92,6 +92,67 @@
 
 <br/>
 
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/karthikJKST/WeekDays">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikJKST&repo=WeekDays&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" alt="WeekDays" width="320"/>
+  </a>
+  <a href="https://github.com/karthikJKST/StockFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikJKST&repo=StockFlow&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" alt="StockFlow" width="320"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karthikJKST/WeekDays"><img src="https://img.shields.io/github/languages/top/karthikJKST/WeekDays?style=flat-square&color=6C63FF" alt="Language"/></a>
+  <a href="https://github.com/karthikJKST/WeekDays"><img src="https://img.shields.io/github/stars/karthikJKST/WeekDays?style=flat-square&color=00D4FF" alt="Stars"/></a>
+  <a href="https://github.com/karthikJKST/WeekDays"><img src="https://img.shields.io/github/forks/karthikJKST/WeekDays?style=flat-square&color=FF6B6B" alt="Forks"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/karthikJKST/StockFlow"><img src="https://img.shields.io/github/languages/top/karthikJKST/StockFlow?style=flat-square&color=6C63FF" alt="Language"/></a>
+  <a href="https://github.com/karthikJKST/StockFlow"><img src="https://img.shields.io/github/stars/karthikJKST/StockFlow?style=flat-square&color=00D4FF" alt="Stars"/></a>
+  <a href="https://github.com/karthikJKST/StockFlow"><img src="https://img.shields.io/github/forks/karthikJKST/StockFlow?style=flat-square&color=FF6B6B" alt="Forks"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karthikJKST/AI-Career-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikJKST&repo=AI-Career-Assistant&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" alt="AI Career Assistant" width="320"/>
+  </a>
+  <a href="https://github.com/karthikJKST/PHOENIX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikJKST&repo=PHOENIX&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" alt="PHOENIX" width="320"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karthikJKST/AI-Career-Assistant"><img src="https://img.shields.io/github/languages/top/karthikJKST/AI-Career-Assistant?style=flat-square&color=6C63FF" alt="Language"/></a>
+  <a href="https://github.com/karthikJKST/AI-Career-Assistant"><img src="https://img.shields.io/github/stars/karthikJKST/AI-Career-Assistant?style=flat-square&color=00D4FF" alt="Stars"/></a>
+  <a href="https://github.com/karthikJKST/AI-Career-Assistant"><img src="https://img.shields.io/github/forks/karthikJKST/AI-Career-Assistant?style=flat-square&color=FF6B6B" alt="Forks"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/karthikJKST/PHOENIX"><img src="https://img.shields.io/github/languages/top/karthikJKST/PHOENIX?style=flat-square&color=6C63FF" alt="Language"/></a>
+  <a href="https://github.com/karthikJKST/PHOENIX"><img src="https://img.shields.io/github/stars/karthikJKST/PHOENIX?style=flat-square&color=00D4FF" alt="Stars"/></a>
+  <a href="https://github.com/karthikJKST/PHOENIX"><img src="https://img.shields.io/github/forks/karthikJKST/PHOENIX?style=flat-square&color=FF6B6B" alt="Forks"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karthikJKST/Diabetic_retinopathy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikJKST&repo=Diabetic_retinopathy&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" alt="Diabetic Retinopathy" width="320"/>
+  </a>
+  <a href="https://github.com/karthikJKST/karthik-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikJKST&repo=karthik-portfolio&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" alt="Portfolio" width="320"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karthikJKST/Diabetic_retinopathy"><img src="https://img.shields.io/github/languages/top/karthikJKST/Diabetic_retinopathy?style=flat-square&color=6C63FF" alt="Language"/></a>
+  <a href="https://github.com/karthikJKST/Diabetic_retinopathy"><img src="https://img.shields.io/github/stars/karthikJKST/Diabetic_retinopathy?style=flat-square&color=00D4FF" alt="Stars"/></a>
+  <a href="https://github.com/karthikJKST/Diabetic_retinopathy"><img src="https://img.shields.io/github/forks/karthikJKST/Diabetic_retinopathy?style=flat-square&color=FF6B6B" alt="Forks"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/karthikJKST/karthik-portfolio"><img src="https://img.shields.io/github/languages/top/karthikJKST/karthik-portfolio?style=flat-square&color=6C63FF" alt="Language"/></a>
+  <a href="https://github.com/karthikJKST/karthik-portfolio"><img src="https://img.shields.io/github/stars/karthikJKST/karthik-portfolio?style=flat-square&color=00D4FF" alt="Stars"/></a>
+  <a href="https://github.com/karthikJKST/karthik-portfolio"><img src="https://img.shields.io/github/forks/karthikJKST/karthik-portfolio?style=flat-square&color=FF6B6B" alt="Forks"/></a>
+</p>
+
+<br/>
+
 ## 🚀 Projects
 
 <table>
