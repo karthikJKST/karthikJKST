@@ -31,14 +31,6 @@
 
 <br/>
 
-### Stack
-
-`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `CI/CD` `JWT` `Python` `FastAPI` `REST APIs` `WebSocket`
-
-<br/>
-
----
-
 ### Featured Project
 
 **WeekDays** &nbsp; <span style="color: #3fb950;">● Production</span>
@@ -153,6 +145,25 @@ AI desktop assistant with LLM planning, voice control, and cross-app automation.
       <strong>Testing</strong><br/>
       <span style="color: #8b949e; font-size: 0.9rem;">Unit tests · Integration tests · CI validation</span>
     </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### Stack
+
+<table>
+  <tr>
+    <td align="center" width="12%">☕<br/>Java</td>
+    <td align="center" width="12%">🌱<br/>Spring Boot</td>
+    <td align="center" width="12%">⚛<br/>React</td>
+    <td align="center" width="12%">📘<br/>TypeScript</td>
+    <td align="center" width="12%">🐘<br/>PostgreSQL</td>
+    <td align="center" width="12%">🐳<br/>Docker</td>
+    <td align="center" width="12%">🔄<br/>CI/CD</td>
+    <td align="center" width="12%">🔐<br/>JWT</td>
   </tr>
 </table>
 
