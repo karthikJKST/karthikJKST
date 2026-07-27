@@ -1,85 +1,213 @@
-<p align="center">Hi, I'm <strong style="color: #f0f6fc;">Jana Karthik Siva Teja</strong>.</p>
+<div align="center">
 
-<p align="center" style="color: #58a6ff; font-size: 0.9rem; letter-spacing: 1px;">Java Backend Engineer</p>
+<h1 style="font-size: 2.4rem; font-weight: 700; color: #f0f6fc; margin: 0 0 4px; letter-spacing: -1px;">Jana Karthik Siva Teja</h1>
 
-<p align="center" style="color: #8b949e; max-width: 500px;">
-  I build production-grade backend systems. REST APIs, authentication, databases, and containerized deployments — from Spring Boot to production, I own the full pipeline.
+<p style="color: #58a6ff; font-size: 0.9rem; letter-spacing: 1.5px; text-transform: uppercase; margin: 0 0 12px; font-weight: 500;">Java Backend Engineer</p>
+
+<p style="color: #8b949e; max-width: 480px; margin: 0 auto 16px; font-size: 0.95rem; line-height: 1.6;">
+  I build production-grade backend systems using Spring Boot, PostgreSQL, Docker, and React.
 </p>
 
-<p align="center" style="color: #8b949e; font-size: 0.85rem;">
-  6+ Projects · 3 Live · 30+ Endpoints
+<p>
+  <a href="https://github.com/karthikJKST/karthik-portfolio" style="display: inline-block; background: #238636; color: #fff; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 500;">Portfolio</a>
+  <span style="display: inline-block; width: 6px;"></span>
+  <a href="jana_karthik_siva_teja_Resume.pdf" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">Resume</a>
+  <span style="display: inline-block; width: 6px;"></span>
+  <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">LinkedIn</a>
+  <span style="display: inline-block; width: 6px;"></span>
+  <a href="mailto:karthikshivatejaj@gmail.com" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/karthikJKST/karthik-portfolio" style="color: #58a6ff;">Portfolio</a> ·
-  <a href="jana_karthik_siva_teja_Resume.pdf" style="color: #58a6ff;">Resume</a> ·
-  <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="color: #58a6ff;">LinkedIn</a> ·
-  <a href="mailto:karthikshivatejaj@gmail.com" style="color: #58a6ff;">Email</a>
+<p style="color: #8b949e; font-size: 0.8rem; margin: 16px 0 0;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 16px;">6+ Projects</code>
+  <span style="margin: 0 4px;">·</span>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 16px;">3 Live Apps</code>
+  <span style="margin: 0 4px;">·</span>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 16px;">30+ REST APIs</code>
 </p>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<h2 style="font-size: 1.3rem; color: #f0f6fc; font-weight: 600; margin: 0 0 24px; letter-spacing: -0.5px;">Featured Projects</h2>
+
+</div>
+
+<table>
+  <tr>
+    <td width="55%" valign="top" style="padding: 0 20px 0 0;">
+      <div style="background: #1c2333; border-radius: 8px; overflow: hidden; border: 1px solid #21262d;">
+        <a href="assets/weekdays-dashboard.svg"><img src="assets/weekdays-dashboard.svg" width="100%" alt="WeekDays Dashboard" style="display: block;"/></a>
+      </div>
+    </td>
+    <td width="45%" valign="top">
+      <h3 style="margin: 0 0 2px; font-size: 1.2rem; font-weight: 600;">WeekDays</h3>
+      <p style="color: #3fb950; font-size: 0.8rem; margin: 0 0 10px;">● Live in Production</p>
+      <p style="color: #8b949e; font-size: 0.88rem; margin: 0 0 12px; line-height: 1.5;">Project management platform with Kanban boards, real-time task tracking, and team collaboration.</p>
+      <p style="margin: 0 0 12px;">
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">Spring Boot 3</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">React 19</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">PostgreSQL</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">Docker</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem;">JWT</code>
+      </p>
+      <p style="color: #8b949e; font-size: 0.8rem; margin: 0 0 12px;">JWT auth · Flyway migrations · RBAC · Docker Compose · CI/CD</p>
+      <p>
+        <a href="https://weekdays-gules.vercel.app" style="display: inline-block; background: #238636; color: #fff; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 500;">Live Demo</a>
+        <span style="display: inline-block; width: 8px;"></span>
+        <a href="https://github.com/karthikJKST/WeekDays" style="display: inline-block; border: 1px solid #30363d; color: #c9d1d9; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-size: 0.85rem;">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top" style="padding: 0 10px 0 0;">
+      <div style="background: #1c2333; border-radius: 8px; overflow: hidden; border: 1px solid #21262d;">
+        <a href="assets/stockflow-market.svg"><img src="assets/stockflow-market.svg" width="100%" alt="StockFlow" style="display: block;"/></a>
+      </div>
+      <h3 style="margin: 10px 0 2px; font-size: 1rem; font-weight: 600;">StockFlow</h3>
+      <p style="color: #3fb950; font-size: 0.75rem; margin: 0 0 6px;">● Live</p>
+      <p style="color: #8b949e; font-size: 0.82rem; margin: 0 0 8px;">Real-time stock analysis with WebSocket streaming and portfolio tracking.</p>
+      <p style="margin: 0 0 8px;">
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Spring Boot</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">WebSocket</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">React</code>
+      </p>
+      <p><a href="https://stock-flow-ashen.vercel.app" style="color: #58a6ff; font-size: 0.85rem; text-decoration: none;">Live →</a> · <a href="https://github.com/karthikJKST/StockFlow" style="color: #8b949e; font-size: 0.85rem; text-decoration: none;">Repo</a></p>
+    </td>
+    <td width="33%" valign="top" style="padding: 0 10px;">
+      <div style="background: #1c2333; border-radius: 8px; overflow: hidden; border: 1px solid #21262d;">
+        <a href="assets/hirepilot-interview.svg"><img src="assets/hirepilot-interview.svg" width="100%" alt="HirePilot" style="display: block;"/></a>
+      </div>
+      <h3 style="margin: 10px 0 2px; font-size: 1rem; font-weight: 600;">HirePilot</h3>
+      <p style="color: #3fb950; font-size: 0.75rem; margin: 0 0 6px;">● Live</p>
+      <p style="color: #8b949e; font-size: 0.82rem; margin: 0 0 8px;">AI interview preparation with Gemini question generation and scoring.</p>
+      <p style="margin: 0 0 8px;">
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">FastAPI</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Gemini</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">React</code>
+      </p>
+      <p><a href="https://ai-career-assistant-b9cs.onrender.com" style="color: #58a6ff; font-size: 0.85rem; text-decoration: none;">Live →</a> · <a href="https://github.com/karthikJKST/AI-Career-Assistant" style="color: #8b949e; font-size: 0.85rem; text-decoration: none;">Repo</a></p>
+    </td>
+    <td width="33%" valign="top" style="padding: 0 0 0 10px;">
+      <div style="background: #1c2333; border-radius: 8px; overflow: hidden; border: 1px solid #21262d;">
+        <img src="assets/phoenix-terminal.svg" width="100%" alt="Phoenix" style="display: block;"/>
+      </div>
+      <h3 style="margin: 10px 0 2px; font-size: 1rem; font-weight: 600;">Phoenix</h3>
+      <p style="color: #d29922; font-size: 0.75rem; margin: 0 0 6px;">● Beta</p>
+      <p style="color: #8b949e; font-size: 0.82rem; margin: 0 0 8px;">AI desktop assistant with LLM planning and cross-app automation.</p>
+      <p style="margin: 0 0 8px;">
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Python</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">LLM</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 8px; border-radius: 4px; font-size: 0.68rem;">Desktop</code>
+      </p>
+      <p><a href="https://github.com/karthikJKST/PHOENIX" style="color: #8b949e; font-size: 0.85rem; text-decoration: none;">Repo →</a></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<p align="center" style="color: #8b949e; max-width: 520px;">
-  <span style="color: #e6edf3;">WeekDays</span> — production project management with Kanban, real-time updates, role-based access. 
-  <a href="https://weekdays-gules.vercel.app" style="color: #58a6ff;">Live</a> · 
-  <a href="https://github.com/karthikJKST/WeekDays" style="color: #8b949e;">Repo</a>
+<h2 align="center" style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 20px; letter-spacing: -0.5px;">Tech Stack</h2>
+
+<div align="center">
+
+<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">LANGUAGES</p>
+<p style="margin: 0 0 16px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">☕ Java</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🐍 Python</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">📘 TypeScript</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🌐 JavaScript</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🗄️ SQL</code>
 </p>
 
-<p align="center" style="color: #8b949e; max-width: 520px;">
-  <span style="color: #e6edf3;">StockFlow</span> — real-time stock analysis with WebSocket streaming and portfolio tracking. 
-  <a href="https://stock-flow-ashen.vercel.app" style="color: #58a6ff;">Live</a> · 
-  <a href="https://github.com/karthikJKST/StockFlow" style="color: #8b949e;">Repo</a>
+<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">BACKEND</p>
+<p style="margin: 0 0 16px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🍃 Spring Boot</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🔒 Spring Security</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">⚡ FastAPI</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🔐 JWT</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">📡 WebSocket</code>
 </p>
 
-<p align="center" style="color: #8b949e; max-width: 520px;">
-  <span style="color: #e6edf3;">Phoenix</span> — AI desktop assistant with LLM planning and cross-app automation. 
-  <a href="https://github.com/karthikJKST/PHOENIX" style="color: #8b949e;">Repo</a>
+<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">FRONTEND</p>
+<p style="margin: 0 0 16px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">⚛️ React</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">⚡ Vite</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🎨 CSS3</code>
 </p>
+
+<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">DATABASE &#38; DEVOPS</p>
+<p style="margin: 0 0 16px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🐘 PostgreSQL</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🐳 Docker</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🔄 GitHub Actions</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">☁️ Render</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">▲ Vercel</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🕊️ Flyway</code>
+</p>
+
+</div>
 
 <br/>
 
----
+<h2 align="center" style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 20px; letter-spacing: -0.5px;">Engineering Philosophy</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px;">
+      <p style="margin: 0 0 6px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Production First</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.5;">I build software that can actually be deployed. Every project includes authentication, CI/CD, and containerization.</p>
+    </td>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px;">
+      <p style="margin: 0 0 6px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Security by Design</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.5;">Authentication, authorization, input validation, and secure APIs are built in from day one — not added later.</p>
+    </td>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px;">
+      <p style="margin: 0 0 6px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Clean Architecture</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.5;">Layered backend architecture with separation of concerns — controllers, services, repositories. Testable, maintainable, scalable.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<p align="center" style="color: #8b949e; max-width: 540px;">
-  I care about <strong style="color: #58a6ff;">production-first engineering</strong>, 
-  <strong style="color: #58a6ff;">clean architecture</strong>, and 
-  <strong style="color: #58a6ff;">security by design</strong>. 
-  Every project includes JWT auth, automated CI/CD, and Docker — because great software is deployable, not just functional.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikJKST&bg_color=0D1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="80%"/>
+
+<br/><br/>
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=karthikJKST&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&hide=contribs"/>
+
+<br/><br/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px;">Open to Software Engineering opportunities.</p>
+
+<p style="font-size: 0.85rem;">
+  <a href="https://github.com/karthikJKST/karthik-portfolio" style="color: #58a6ff; text-decoration: none;">Portfolio</a>
+  <span style="color: #30363d; margin: 0 10px;">·</span>
+  <a href="jana_karthik_siva_teja_Resume.pdf" style="color: #58a6ff; text-decoration: none;">Resume</a>
+  <span style="color: #30363d; margin: 0 10px;">·</span>
+  <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="color: #58a6ff; text-decoration: none;">LinkedIn</a>
+  <span style="color: #30363d; margin: 0 10px;">·</span>
+  <a href="mailto:karthikshivatejaj@gmail.com" style="color: #58a6ff; text-decoration: none;">Email</a>
 </p>
 
-<br/>
-
----
+</div>
 
 <br/>
-
-<p align="center" style="color: #8b949e; font-size: 0.85rem;">
-  <strong style="color: #e6edf3;">Building</strong> event-driven systems with CQRS ·
-  <strong style="color: #e6edf3;">Learning</strong> Kubernetes and distributed systems ·
-  <strong style="color: #e6edf3;">Next</strong> scalable backend engineer
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<p align="center" style="color: #8b949e; font-size: 0.85rem;">
-  Open to software engineering roles.
-</p>
-
-<p align="center">
-  <a href="https://github.com/karthikJKST/karthik-portfolio" style="color: #58a6ff; font-size: 0.85rem;">Portfolio</a> ·
-  <a href="jana_karthik_siva_teja_Resume.pdf" style="color: #58a6ff; font-size: 0.85rem;">Resume</a> ·
-  <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="color: #58a6ff; font-size: 0.85rem;">LinkedIn</a> ·
-  <a href="mailto:karthikshivatejaj@gmail.com" style="color: #58a6ff; font-size: 0.85rem;">Email</a>
-</p>
-
-<p align="center" style="color: #30363d; font-size: 0.7rem;">© 2026</p>
