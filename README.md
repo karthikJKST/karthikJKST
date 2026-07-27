@@ -218,8 +218,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/karthikJKST?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6C63FF" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/karthikJKST?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=00D4FF" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=karthikJKST&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="Views"/>
+  <img src="https://img.shields.io/github/last-commit/karthikJKST/karthikJKST?style=for-the-badge&logo=github&logoColor=white&label=Last%20Updated&color=00D4FF" alt="Last Updated"/>
 </p>
 
 <p align="center">
