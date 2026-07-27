@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <!-- Profile photo: assets/profile.jpg (160x160, circular) -->
+  <!-- Profile photo: add assets/profile.jpg (160x160, circular crop) -->
   <br/>
   <h1>Jana Karthik Siva Teja</h1>
   <p style="font-size: 1.1rem; color: #8b949e;">
@@ -29,14 +29,14 @@ B.Tech CSE at VIT-AP. I build production systems with clean APIs, containerized 
 
 <table>
   <tr>
-    <td align="center" width="12%"><strong>☕</strong><br/>Java</td>
-    <td align="center" width="12%"><strong>🌱</strong><br/>Spring Boot</td>
-    <td align="center" width="12%"><strong>⚛</strong><br/>React</td>
-    <td align="center" width="12%"><strong>📘</strong><br/>TypeScript</td>
-    <td align="center" width="12%"><strong>🐘</strong><br/>PostgreSQL</td>
-    <td align="center" width="12%"><strong>🐳</strong><br/>Docker</td>
-    <td align="center" width="12%"><strong>🔄</strong><br/>CI/CD</td>
-    <td align="center" width="12%"><strong>🔐</strong><br/>JWT</td>
+    <td align="center" width="12%">☕<br/>Java</td>
+    <td align="center" width="12%">🌱<br/>Spring Boot</td>
+    <td align="center" width="12%">⚛<br/>React</td>
+    <td align="center" width="12%">📘<br/>TypeScript</td>
+    <td align="center" width="12%">🐘<br/>PostgreSQL</td>
+    <td align="center" width="12%">🐳<br/>Docker</td>
+    <td align="center" width="12%">🔄<br/>CI/CD</td>
+    <td align="center" width="12%">🔐<br/>JWT</td>
   </tr>
 </table>
 
@@ -47,38 +47,29 @@ B.Tech CSE at VIT-AP. I build production systems with clean APIs, containerized 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td><strong>WeekDays</strong> <span style="color: #3fb950;">● Live</span></td></tr>
-        <tr><td style="color: #8b949e;">Production project management with Kanban, tasks, calendar, and analytics.</td></tr>
-        <tr><td style="color: #8b949e; font-size: 0.9rem;">Spring Boot · React · PostgreSQL · Docker</td></tr>
-        <tr><td><a href="https://weekdays-gules.vercel.app">Live</a> · <a href="https://github.com/karthikJKST/WeekDays">Repo</a></td></tr>
-      </table>
+      <p><strong>WeekDays</strong> &nbsp;<span style="color: #3fb950;">● Live</span></p>
+      <!-- Add screenshot: assets/weekdays.png -->
+      <p style="color: #8b949e;">Production project management. Kanban, tasks, calendar, analytics.</p>
+      <p style="color: #8b949e; font-size: 0.9rem;">Spring Boot · React · PostgreSQL · Docker</p>
+      <p><a href="https://weekdays-gules.vercel.app">Live</a> · <a href="https://github.com/karthikJKST/WeekDays">Repo</a></p>
     </td>
     <td width="50%" valign="top">
-      <table>
-        <tr><td><strong>StockFlow</strong> <span style="color: #3fb950;">● Live</span></td></tr>
-        <tr><td style="color: #8b949e;">Real-time stock platform with live quotes, technical analysis, and portfolio tracking.</td></tr>
-        <tr><td style="color: #8b949e; font-size: 0.9rem;">Spring Boot · React · WebSocket · PostgreSQL</td></tr>
-        <tr><td><a href="https://stock-flow-ashen.vercel.app">Live</a> · <a href="https://github.com/karthikJKST/StockFlow">Repo</a></td></tr>
-      </table>
+      <p><strong>StockFlow</strong> &nbsp;<span style="color: #3fb950;">● Live</span></p>
+      <!-- Add screenshot: assets/stockflow.png -->
+      <p style="color: #8b949e;">Real-time stock analysis. Live quotes, technical indicators, portfolio.</p>
+      <p style="color: #8b949e; font-size: 0.9rem;">Spring Boot · React · WebSocket · PostgreSQL</p>
+      <p><a href="https://stock-flow-ashen.vercel.app">Live</a> · <a href="https://github.com/karthikJKST/StockFlow">Repo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td><strong>HirePilot</strong> <span style="color: #3fb950;">● Live</span></td></tr>
-        <tr><td style="color: #8b949e;">AI-powered interview prep with Gemini question generation and resume matching.</td></tr>
-        <tr><td style="color: #8b949e; font-size: 0.9rem;">FastAPI · React · Gemini API · JWT</td></tr>
-        <tr><td><a href="https://ai-career-assistant-b9cs.onrender.com">Live</a> · <a href="https://github.com/karthikJKST/AI-Career-Assistant">Repo</a></td></tr>
-      </table>
+      <p><strong>HirePilot</strong> &nbsp;<span style="color: #3fb950;">● Live</span></p>
+      <!-- Add screenshot: assets/hirepilot.png -->
+      <p style="color: #8b949e;">AI interview prep. Gemini-powered questions, scoring, resume matching.</p>
+      <p style="color: #8b949e; font-size: 0.9rem;">FastAPI · React · Gemini API · JWT</p>
+      <p><a href="https://ai-career-assistant-b9cs.onrender.com">Live</a> · <a href="https://github.com/karthikJKST/AI-Career-Assistant">Repo</a></p>
     </td>
     <td width="50%" valign="top">
-      <table>
-        <tr><td><strong>PHOENIX</strong> <span style="color: #8b949e;">● Beta</span></td></tr>
-        <tr><td style="color: #8b949e;">AI desktop automation assistant with LLM planning and voice control.</td></tr>
-        <tr><td style="color: #8b949e; font-size: 0.9rem;">Python · LLM · Desktop Automation</td></tr>
-        <tr><td><a href="https://github.com/karthikJKST/PHOENIX">Repo</a></td></tr>
-      </table>
     </td>
   </tr>
 </table>
@@ -89,14 +80,14 @@ B.Tech CSE at VIT-AP. I build production systems with clean APIs, containerized 
 
 <table>
   <tr>
-    <td align="center" width="12%"><strong>⚡</strong><br/>REST APIs</td>
-    <td align="center" width="12%"><strong>🔐</strong><br/>JWT Auth</td>
-    <td align="center" width="12%"><strong>🐳</strong><br/>Docker</td>
-    <td align="center" width="12%"><strong>🌱</strong><br/>Spring Boot</td>
-    <td align="center" width="12%"><strong>🗄</strong><br/>PostgreSQL</td>
-    <td align="center" width="12%"><strong>🔄</strong><br/>CI/CD</td>
-    <td align="center" width="12%"><strong>☁</strong><br/>Cloud</td>
-    <td align="center" width="12%"><strong>📊</strong><br/>Monitoring</td>
+    <td align="center" width="12%">⚡<br/>REST APIs</td>
+    <td align="center" width="12%">🔐<br/>JWT Auth</td>
+    <td align="center" width="12%">🐳<br/>Docker</td>
+    <td align="center" width="12%">🌱<br/>Spring Boot</td>
+    <td align="center" width="12%">🗄<br/>PostgreSQL</td>
+    <td align="center" width="12%">🔄<br/>CI/CD</td>
+    <td align="center" width="12%">☁<br/>Cloud</td>
+    <td align="center" width="12%">🧪<br/>Testing</td>
   </tr>
 </table>
 
