@@ -80,15 +80,15 @@ B.Tech CSE at VIT-AP. I build production systems with clean APIs, containerized 
 
 <table>
   <tr>
-    <td align="center" width="12%">⚡<br/>REST APIs</td>
-    <td align="center" width="12%">🔐<br/>JWT Auth</td>
-    <td align="center" width="12%">🐳<br/>Docker</td>
-    <td align="center" width="12%">🌱<br/>Spring Boot</td>
-    <td align="center" width="12%">🗄<br/>PostgreSQL</td>
-    <td align="center" width="12%">🔄<br/>CI/CD</td>
-    <td align="center" width="12%">☁<br/>Cloud</td>
-    <td align="center" width="12%">🧪<br/>Testing</td>
-    <td align="center" width="12%">📊<br/>Monitoring</td>
+    <td align="center" width="11%">⚡<br/>REST APIs</td>
+    <td align="center" width="11%">🔐<br/>JWT Auth</td>
+    <td align="center" width="11%">🐳<br/>Docker</td>
+    <td align="center" width="11%">🌱<br/>Spring Boot</td>
+    <td align="center" width="11%">🗄<br/>PostgreSQL</td>
+    <td align="center" width="11%">🔄<br/>CI/CD</td>
+    <td align="center" width="11%">☁<br/>Cloud</td>
+    <td align="center" width="11%">🧪<br/>Testing</td>
+    <td align="center" width="11%">📊<br/>Monitoring</td>
   </tr>
 </table>
 
