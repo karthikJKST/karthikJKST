@@ -249,7 +249,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="jana_karthik_siva_teja_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+    <img src="https://img.shields.io/badge/Download_Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
 
