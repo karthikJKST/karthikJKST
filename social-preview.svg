@@ -98,7 +98,7 @@
 
   <!-- Tagline with gradient -->
   <text x="280" y="300" font-family="'Fira Code', 'Courier New', monospace" font-size="24" fill="url(#accentGrad)" letter-spacing="1">
-    Computer Science Undergradaute &amp; AI/ML Enthusiast
+    Computer Science Undergraduate &amp; AI/ML Enthusiast
   </text>
 
   <!-- Separator line -->
