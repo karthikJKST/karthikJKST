@@ -165,16 +165,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 0 12px 0 0;">
-      <div style="background: #1c2333; border-radius: 10px; overflow: hidden; border: 1px solid #30363d;">
-        <div style="background: #21262d; padding: 6px 14px; display: flex; gap: 6px; align-items: center;">
-          <span style="width: 10px; height: 10px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
-          <span style="width: 10px; height: 10px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
-          <span style="width: 10px; height: 10px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
-        </div>
-        <div style="background: #0d1117; min-height: 120px; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #30363d;">
-          <span style="color: #3fb950; font-family: monospace; font-size: 0.85rem;">$ python phoenix.py</span>
-        </div>
-      </div>
+      <a href="assets/phoenix-terminal.svg"><img src="assets/phoenix-terminal.svg" width="100%" alt="Phoenix Terminal" style="display: block; border-radius: 8px; border: 1px solid #30363d;"/></a>
       <h3 style="margin: 12px 0 2px; font-size: 1.05rem;">Phoenix</h3>
       <p style="color: #d29922; font-size: 0.75rem; margin: 0 0 6px;">● Beta</p>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 10px;">AI desktop assistant with LLM planning and voice control.</p>

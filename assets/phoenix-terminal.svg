@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="100%">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal frame -->
+  <rect x="0" y="0" width="360" height="200" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="360" height="32" rx="8" fill="#21262d"/>
+  <rect x="0" y="24" width="360" height="8" fill="#21262d"/>
+
+  <!-- Traffic light dots (terminal version) -->
+  <circle cx="16" cy="16" r="5" fill="#ff5f56" opacity="0.9"/>
+  <circle cx="32" cy="16" r="5" fill="#ffbd2e" opacity="0.9"/>
+  <circle cx="48" cy="16" r="5" fill="#27c93f" opacity="0.9"/>
+
+  <!-- Title -->
+  <text x="180" y="20" text-anchor="middle" fill="#8b949e" font-size="11" font-family="system-ui, -apple-system, sans-serif">phoenix — python3</text>
+
+  <!-- Terminal content area -->
+  <g transform="translate(16, 48)">
+    <!-- CWD prompt line -->
+    <text x="0" y="0" fill="#3fb950" font-size="12" font-family="'JetBrains Mono', 'Fira Code', monospace">~/phoenix $</text>
+
+    <!-- Command -->
+    <text x="0" y="22" fill="#e6edf3" font-size="12" font-family="'JetBrains Mono', 'Fira Code', monospace"><tspan fill="#c0caf5">python</tspan> <tspan fill="#bb9af7">phoenix.py</tspan></text>
+
+    <!-- Output line 1 -->
+    <text x="0" y="50" fill="#8b949e" font-size="11" font-family="'JetBrains Mono', 'Fira Code', monospace">[<tspan fill="#58a6ff">INFO</tspan>] Loading modules...</text>
+
+    <!-- Output line 2 -->
+    <text x="0" y="70" fill="#8b949e" font-size="11" font-family="'JetBrains Mono', 'Fira Code', monospace">[<tspan fill="#58a6ff">INFO</tspan>] Initializing LLM engine...</text>
+
+    <!-- Output line 3 -->
+    <text x="0" y="90" fill="#8b949e" font-size="11" font-family="'JetBrains Mono', 'Fira Code', monospace">[<tspan fill="#3fb950"> OK </tspan>] Voice control ready</text>
+
+    <!-- Output line 4 -->
+    <text x="0" y="110" fill="#8b949e" font-size="11" font-family="'JetBrains Mono', 'Fira Code', monospace">[<tspan fill="#3fb950"> OK </tspan>] Desktop automation active</text>
+
+    <!-- Output line 5 -->
+    <text x="0" y="130" fill="#8b949e" font-size="11" font-family="'JetBrains Mono', 'Fira Code', monospace">[<tspan fill="#58a6ff">INFO</tspan>] Ready — awaiting commands</text>
+
+    <!-- Blinking cursor -->
+    <text x="0" y="150" fill="#e6edf3" font-size="12" font-family="'JetBrains Mono', 'Fira Code', monospace">
+      <tspan fill="#3fb950">$</tspan> █
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
