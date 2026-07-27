@@ -26,6 +26,12 @@ Tools:         Git, Maven, IntelliJ, Postman, Linux
 
 ---
 
+## Architecture Philosophy
+
+I build software with clear separation of concerns — controllers handle HTTP, services contain business logic, repositories manage data access. APIs are designed with RESTful conventions, authenticated via JWT, and documented for consumers. Every service is containerized, database migrations are version-controlled, and deployments follow CI/CD pipelines. This approach produces systems that are testable, maintainable, and production-ready from day one.
+
+---
+
 ## Projects
 
 ### WeekDays
@@ -62,7 +68,7 @@ Real-time stock market intelligence platform with live quotes, technical analysi
 
 ---
 
-### AI-Career-Assistant
+### AI-Career-Assistant (HirePilot)
 AI-powered interview preparation and resume analysis platform.
 
 **Stack:** FastAPI · Python · React · Gemini API · SQLite · JWT
@@ -75,7 +81,7 @@ AI-powered interview preparation and resume analysis platform.
 - Voice support: speech-to-text and text-to-speech
 - PDF report generation with performance metrics
 
-[Source](https://github.com/karthikJKST/AI-Career-Assistant)
+[Source](https://github.com/karthikJKST/AI-Career-Assistant) · [Live API](https://ai-career-assistant-b9cs.onrender.com)
 
 ---
 
@@ -88,64 +94,71 @@ AI-powered desktop operating assistant for multi-step task automation.
 - Modular plugin architecture with 20+ action modules
 - LLM-based planning engine for multi-step goal decomposition
 - Voice command pipeline (speech recognition + TTS)
-- Cross-application desktop automation (PyAutoGUI, window management)
+- Cross-application automation via PyAutoGUI and window management
 
 [Source](https://github.com/karthikJKST/PHOENIX)
 
 ---
 
 ### Diabetic Retinopathy Detection
-Deep learning system for classifying retinal images.
+Deep learning system for classifying retinal images to enable early diagnosis.
 
 **Stack:** TensorFlow · CNN · ResNet50 · Python · Flask · OpenCV
 
 **Engineering:**
 - Custom CNN and transfer learning (ResNet50) architectures
 - Image preprocessing pipeline with OpenCV
-- Web interface for model inference
-- Flask deployment with gunicorn
+- Web interface for model inference with Flask + gunicorn
+- Trained on benchmark medical imaging datasets
 
 [Source](https://github.com/karthikJKST/Diabetic_retinopathy)
 
 ---
 
 ### Portfolio Website
-Personal developer portfolio showcasing projects and skills.
+Personal developer portfolio with glassmorphism design and scroll animations.
 
 **Stack:** React · JavaScript · CSS · Vite · Framer Motion
 
 **Engineering:**
-- Component-based architecture with glassmorphism design
+- Component-based architecture with reusable UI patterns
 - Intersection Observer-based scroll animations
-- Responsive layout system
-- Cloudflare Pages deployment
+- Responsive layout system across all device sizes
+- Vercel deployment
 
 [Source](https://github.com/karthikJKST/karthik-portfolio)
 
 ---
 
-## Production Features
+## Production Experience
 
-Across these projects, I've implemented:
+**6 Projects · 3 Live Deployments · Dockerized · CI/CD · JWT Auth · PostgreSQL**
 
-- JWT authentication with refresh tokens
-- REST API design with layered architecture
-- Database migrations and schema management
-- Docker containerization with multi-stage builds
-- CI/CD pipelines (GitHub Actions)
-- WebSocket real-time communication
-- Rate limiting and input validation
+Across these projects, I've implemented production-grade features including:
+
+- JWT authentication with access/refresh token rotation
+- REST API design with layered architecture and input validation
+- Database migrations with version-controlled schemas (Flyway)
+- Docker containerization with multi-stage builds and health checks
+- CI/CD pipelines with automated build, test, and deploy (GitHub Actions)
+- WebSocket real-time communication (STOMP over SockJS)
+- Rate limiting and brute-force protection (SlowAPI)
 - Secure password hashing (BCrypt)
-- CORS configuration for production deployment
-- Health checks and monitoring endpoints
+- CORS configuration for production cross-origin deployment
+- Health check and monitoring endpoints (Spring Actuator)
 
 ---
 
-## Currently
+## Currently Building
 
-**Building:** Advanced Spring Boot patterns — event-driven architecture, CQRS, and message queues.
+An event-driven Spring Boot application with CQRS pattern, using message queues for asynchronous processing and Redis for caching. Exploring domain-driven design principles and hexagonal architecture.
 
-**Learning:** Kubernetes, system design for distributed applications, advanced testing strategies.
+## Currently Learning
+
+- Kubernetes container orchestration and Helm charts
+- Distributed system design (consistency models, partitioning, replication)
+- Integration and end-to-end testing strategies
+- Observability: structured logging, metrics, and distributed tracing
 
 ---
 
@@ -156,4 +169,5 @@ Across these projects, I've implemented:
 
 ---
 
-*Open to software engineering opportunities. Focused on Java backend, full-stack development, and distributed systems.*
+*Open to software engineering opportunities — Java backend, full-stack development, and distributed systems.*  
+[LinkedIn](https://linkedin.com/in/karthik-siva-teja-jana-a367a0275) · [Email](mailto:karthikshivatejaj@gmail.com) · [Resume](jana_karthik_siva_teja_Resume.pdf)
