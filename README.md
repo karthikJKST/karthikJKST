@@ -88,6 +88,7 @@ B.Tech CSE at VIT-AP. I build production systems with clean APIs, containerized 
     <td align="center" width="12%">🔄<br/>CI/CD</td>
     <td align="center" width="12%">☁<br/>Cloud</td>
     <td align="center" width="12%">🧪<br/>Testing</td>
+    <td align="center" width="12%">📊<br/>Monitoring</td>
   </tr>
 </table>
 
