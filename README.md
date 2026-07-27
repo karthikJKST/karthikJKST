@@ -50,32 +50,32 @@
 </div>
 
 <br/>
-
----
-
+<br/>
 <br/>
 
 <p align="center" style="color: #8b949e; font-size: 0.9rem; letter-spacing: 1.5px; text-transform: uppercase;">
-  Engineering Philosophy
+  Engineering Principles
 </p>
 
-<p align="center" style="color: #f0f6fc; font-size: 1rem;">
-  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">Production First</code>
-  <span style="margin: 0 6px;">→</span>
-  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">Security by Design</code>
-  <span style="margin: 0 6px;">→</span>
-  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">Clean Architecture</code>
-  <span style="margin: 0 6px;">→</span>
-  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">API Driven</code>
+<p align="center" style="font-size: 1rem;">
+  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">✔ Production First</code>
+  <span style="margin: 0 8px; color: #30363d;">·</span>
+  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">✔ Security by Design</code>
+  <span style="margin: 0 8px; color: #30363d;">·</span>
+  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">✔ Clean Architecture</code>
+  <span style="margin: 0 8px; color: #30363d;">·</span>
+  <code style="background: rgba(88,166,255,0.08); color: #58a6ff; padding: 6px 18px; border-radius: 20px;">✔ API Driven</code>
 </p>
 
 <br/>
 
-Every project I ship includes JWT authentication, database migrations, containerization, and an automated CI/CD pipeline — because production-ready isn't optional.
+<p align="center" style="color: #8b949e; max-width: 520px; margin: 0 auto;">
+  Production-ready software isn't optional — it's designed in from day one.
+</p>
 
 <br/>
-
----
+<br/>
+<br/>
 
 <br/>
 
@@ -117,12 +117,10 @@ Every project I ship includes JWT authentication, database migrations, container
 </p>
 
 <br/>
-
----
-
+<br/>
 <br/>
 
-<h3 align="center" style="color: #f0f6fc; margin: 0 0 24px; font-size: 1.1rem; font-weight: 500;">More Projects</h3>
+<h3 align="center" style="color: #f0f6fc; margin: 0 0 28px; font-size: 1.1rem; font-weight: 500;">More Projects</h3>
 
 <table>
   <tr>
@@ -145,7 +143,7 @@ Every project I ship includes JWT authentication, database migrations, container
       </p>
       <p><a href="https://stock-flow-ashen.vercel.app" style="color: #58a6ff;">Live Demo →</a> · <a href="https://github.com/karthikJKST/StockFlow" style="color: #8b949e;">Repo</a></p>
     </td>
-    <td width="50%" valign="top" style="padding: 0 0 0 12px;">
+    <td width="50%" valign="top" style="padding: 0 6px 0 12px;">
       <div style="background: #1c2333; border-radius: 10px; overflow: hidden; border: 1px solid #30363d;">
         <div style="background: #21262d; padding: 6px 14px; display: flex; gap: 6px; align-items: center;">
           <span style="width: 10px; height: 10px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
@@ -165,12 +163,34 @@ Every project I ship includes JWT authentication, database migrations, container
       <p><a href="https://ai-career-assistant-b9cs.onrender.com" style="color: #58a6ff;">Live Demo →</a> · <a href="https://github.com/karthikJKST/AI-Career-Assistant" style="color: #8b949e;">Repo</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 0 12px 0 0;">
+      <div style="background: #1c2333; border-radius: 10px; overflow: hidden; border: 1px solid #30363d;">
+        <div style="background: #21262d; padding: 6px 14px; display: flex; gap: 6px; align-items: center;">
+          <span style="width: 10px; height: 10px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
+          <span style="width: 10px; height: 10px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
+          <span style="width: 10px; height: 10px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
+        </div>
+        <div style="background: #0d1117; min-height: 120px; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #30363d;">
+          <span style="color: #3fb950; font-family: monospace; font-size: 0.85rem;">$ python phoenix.py</span>
+        </div>
+      </div>
+      <h3 style="margin: 12px 0 2px; font-size: 1.05rem;">Phoenix</h3>
+      <p style="color: #d29922; font-size: 0.75rem; margin: 0 0 6px;">● Beta</p>
+      <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 10px;">AI desktop assistant with LLM planning and voice control.</p>
+      <p style="margin: 0 0 10px;">
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.7rem;">Python</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.7rem;">LLM</code>
+        <code style="background: rgba(240,246,252,0.06); color: #e6edf3; padding: 2px 10px; border-radius: 6px; font-size: 0.7rem;">Desktop</code>
+      </p>
+      <p><a href="https://github.com/karthikJKST/PHOENIX" style="color: #8b949e;">Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">&nbsp;</td>
+  </tr>
 </table>
 
 <br/>
-
----
-
+<br/>
 <br/>
 
 <div align="center">
@@ -182,9 +202,7 @@ Every project I ship includes JWT authentication, database migrations, container
 </div>
 
 <br/>
-
----
-
+<br/>
 <br/>
 
 <div align="center">
