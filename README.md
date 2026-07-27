@@ -8,11 +8,11 @@
   </p>
   <br/>
   <p>
-    <code style="background: rgba(88,166,255,0.1); color: #58a6ff; padding: 4px 12px; border-radius: 20px;">6+ Projects</code>
-    <code style="background: rgba(63,185,80,0.1); color: #3fb950; padding: 4px 12px; border-radius: 20px;">3 Live</code>
-    <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 4px 12px; border-radius: 20px;">Spring Boot</code>
-    <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 4px 12px; border-radius: 20px;">PostgreSQL</code>
-    <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 4px 12px; border-radius: 20px;">Docker</code>
+    <code style="background: rgba(88,166,255,0.1); color: #58a6ff; padding: 4px 12px; border-radius: 6px;">6+ Projects</code>
+    <code style="background: rgba(63,185,80,0.1); color: #3fb950; padding: 4px 12px; border-radius: 6px;">3 Live</code>
+    <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 4px 12px; border-radius: 6px;">Spring Boot</code>
+    <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 4px 12px; border-radius: 6px;">PostgreSQL</code>
+    <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 4px 12px; border-radius: 6px;">Docker</code>
   </p>
   <br/>
   <p style="font-size: 0.9rem;">
