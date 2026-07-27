@@ -48,10 +48,10 @@
       <p style="color: #3fb950; font-size: 0.85rem;">● Production</p>
       <p style="color: #8b949e;">Project management platform with Kanban boards, real-time analytics, and calendar views. Built for teams.</p>
       <p>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">Spring Boot</code>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">React</code>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">PostgreSQL</code>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">Docker</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">Spring Boot</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">React</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">PostgreSQL</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">Docker</code>
       </p>
       <br/>
       <a href="https://weekdays-gules.vercel.app" style="background: #238636; color: white; padding: 8px 20px; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">Live Demo</a>
@@ -72,10 +72,10 @@
       <p style="color: #3fb950; font-size: 0.85rem;">● Live</p>
       <p style="color: #8b949e;">Real-time stock analysis. Live quotes, technical indicators, and portfolio tracking with WebSocket streaming.</p>
       <p>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">Spring Boot</code>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">WebSocket</code>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">React</code>
-        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">PostgreSQL</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">Spring Boot</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">WebSocket</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">React</code>
+        <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem;">PostgreSQL</code>
       </p>
       <br/>
       <a href="https://stock-flow-ashen.vercel.app" style="background: #238636; color: white; padding: 8px 20px; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">Live Demo</a>
@@ -95,14 +95,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
+      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 32px;">
         <img src="assets/hirepilot-interview.svg" width="100%" alt="HirePilot Interview"/>
         <h3 style="margin: 0 0 4px;">HirePilot</h3>
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 8px;">AI interview prep with Gemini question generation and resume matching.</p>
         <p style="margin: 0 0 12px;">
-          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem;">FastAPI</code>
-          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem;">Gemini API</code>
-          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem;">React</code>
+          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">FastAPI</code>
+          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">Gemini API</code>
+          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">React</code>
         </p>
         <p style="margin: 0;">
           <a href="https://ai-career-assistant-b9cs.onrender.com" style="color: #58a6ff; font-size: 0.85rem;">Live →</a>
@@ -112,17 +112,17 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
+      <div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 32px;">
         <!-- Screenshot: assets/phoenix-terminal.png -->
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 40px 20px; text-align: center; margin-bottom: 16px;">
+        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 32px 20px; text-align: center; margin-bottom: 16px;">
           <span style="color: #8b949e; font-size: 0.85rem;">Terminal Preview</span>
         </div>
         <h3 style="margin: 0 0 4px;">Phoenix</h3>
         <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 8px;">AI desktop assistant with LLM planning, voice control, and cross-app automation.</p>
         <p style="margin: 0 0 12px;">
-          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem;">Python</code>
-          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem;">LLM</code>
-          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem;">Desktop</code>
+          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">Python</code>
+          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">LLM</code>
+          <code style="background: rgba(240,246,252,0.06); color: #f0f6fc; padding: 2px 8px; border-radius: 6px; font-size: 0.75rem;">Desktop</code>
         </p>
         <p style="margin: 0;">
           <a href="https://github.com/karthikJKST/PHOENIX" style="color: #8b949e; font-size: 0.85rem;">Repo</a>
@@ -142,37 +142,37 @@
 
 <table>
   <tr>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">REST APIs</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">30+ endpoints · Layered architecture · Input validation</p>
     </td>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">JWT Auth</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">Access + refresh tokens · Spring Security · BCrypt</p>
     </td>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">Docker</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">Multi-stage builds · Compose orchestration · Health checks</p>
     </td>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">CI/CD</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">GitHub Actions · Build + test · Automated deploy</p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">PostgreSQL</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">Flyway migrations · JPA/Hibernate · Connection pooling</p>
     </td>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">WebSocket</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">STOMP streaming · Real-time data · Live updates</p>
     </td>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">Cloud</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">Vercel · Render · Neon PostgreSQL</p>
     </td>
-    <td valign="top" width="25%" style="padding: 8px;">
+    <td valign="top" width="25%" style="padding: 16px;">
       <strong style="color: #f0f6fc;">Spring Boot</strong>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 4px 0;">Security · JPA · Actuator · Validation</p>
     </td>
