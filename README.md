@@ -133,91 +133,75 @@
 
 <div align="center">
 
-<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">LANGUAGES</p>
-<p style="margin: 0 0 16px;">
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">☕ Java</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🐍 Python</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">📘 TypeScript</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🌐 JavaScript</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🗄️ SQL</code>
+<p style="color: #8b949e; font-size: 0.75rem; letter-spacing: 1px; margin: 0 0 10px;">LANGUAGES</p>
+<p style="margin: 0 0 20px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Java</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Python</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">TypeScript</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">JavaScript</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">SQL</code>
 </p>
 
-<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">BACKEND</p>
-<p style="margin: 0 0 16px;">
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🍃 Spring Boot</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🔒 Spring Security</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">⚡ FastAPI</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🔐 JWT</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">📡 WebSocket</code>
+<p style="color: #8b949e; font-size: 0.75rem; letter-spacing: 1px; margin: 0 0 10px;">BACKEND</p>
+<p style="margin: 0 0 20px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Spring Boot</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Spring Security</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">FastAPI</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">JWT</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">WebSocket</code>
 </p>
 
-<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">FRONTEND</p>
-<p style="margin: 0 0 16px;">
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">⚛️ React</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">⚡ Vite</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🎨 CSS3</code>
+<p style="color: #8b949e; font-size: 0.75rem; letter-spacing: 1px; margin: 0 0 10px;">FRONTEND</p>
+<p style="margin: 0 0 20px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">React</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Vite</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">CSS3</code>
 </p>
 
-<p style="color: #8b949e; font-size: 0.78rem; letter-spacing: 1px; margin: 0 0 8px;">DATABASE &#38; DEVOPS</p>
+<p style="color: #8b949e; font-size: 0.75rem; letter-spacing: 1px; margin: 0 0 10px;">DATABASE</p>
+<p style="margin: 0 0 20px;">
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">PostgreSQL</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Flyway</code>
+</p>
+
+<p style="color: #8b949e; font-size: 0.75rem; letter-spacing: 1px; margin: 0 0 10px;">DEVOPS &#38; CLOUD</p>
 <p style="margin: 0 0 16px;">
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🐘 PostgreSQL</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🐳 Docker</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🔄 GitHub Actions</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">☁️ Render</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">▲ Vercel</code>
-  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem;">🕊️ Flyway</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Docker</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">GitHub Actions</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Render</code>
+  <code style="background: rgba(240,246,252,0.05); color: #e6edf3; padding: 4px 14px; border-radius: 6px; font-size: 0.78rem;">Vercel</code>
 </p>
 
 </div>
 
 <br/>
 
-<h2 align="center" style="font-size: 1.1rem; color: #f0f6fc; font-weight: 500; margin: 0 0 20px; letter-spacing: -0.5px;">Engineering Philosophy</h2>
-
 <table>
   <tr>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px;">
-      <p style="margin: 0 0 6px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Production First</p>
-      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.5;">I build software that can actually be deployed. Every project includes authentication, CI/CD, and containerization.</p>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 22px;">
+      <p style="margin: 0 0 8px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Production First</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.6;">I build software that can actually be deployed. Every project includes authentication, CI/CD, and containerization.</p>
     </td>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px;">
-      <p style="margin: 0 0 6px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Security by Design</p>
-      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.5;">Authentication, authorization, input validation, and secure APIs are built in from day one — not added later.</p>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 22px;">
+      <p style="margin: 0 0 8px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Security by Design</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.6;">Authentication, authorization, input validation, and secure APIs are built in from day one — not added later.</p>
     </td>
-    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px;">
-      <p style="margin: 0 0 6px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Clean Architecture</p>
-      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.5;">Layered backend architecture with separation of concerns — controllers, services, repositories. Testable, maintainable, scalable.</p>
+    <td width="33%" valign="top" style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 22px;">
+      <p style="margin: 0 0 8px; color: #f0f6fc; font-size: 0.9rem; font-weight: 600;">Clean Architecture</p>
+      <p style="margin: 0; color: #8b949e; font-size: 0.82rem; line-height: 1.6;">Layered backend architecture with separation of concerns — controllers, services, repositories. Testable, maintainable, scalable.</p>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikJKST&bg_color=0D1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="80%"/>
-
-<br/><br/>
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=karthikJKST&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&hide=contribs"/>
-
-<br/><br/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 12px;">Open to Software Engineering opportunities.</p>
+<div align="center" style="padding: 0 0 24px;">
 
 <p style="font-size: 0.85rem;">
   <a href="https://github.com/karthikJKST/karthik-portfolio" style="color: #58a6ff; text-decoration: none;">Portfolio</a>
-  <span style="color: #30363d; margin: 0 10px;">·</span>
+  <span style="color: #30363d; margin: 0 12px;">·</span>
   <a href="jana_karthik_siva_teja_Resume.pdf" style="color: #58a6ff; text-decoration: none;">Resume</a>
-  <span style="color: #30363d; margin: 0 10px;">·</span>
+  <span style="color: #30363d; margin: 0 12px;">·</span>
   <a href="https://linkedin.com/in/karthik-siva-teja-jana-a367a0275" style="color: #58a6ff; text-decoration: none;">LinkedIn</a>
-  <span style="color: #30363d; margin: 0 10px;">·</span>
+  <span style="color: #30363d; margin: 0 12px;">·</span>
   <a href="mailto:karthikshivatejaj@gmail.com" style="color: #58a6ff; text-decoration: none;">Email</a>
 </p>
 
