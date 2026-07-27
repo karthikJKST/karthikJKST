@@ -35,10 +35,6 @@
 
 <br/>
 <br/>
-
----
-
-<br/>
 <br/>
 
 <h2 align="center" style="font-size: 1.1rem; color: #8b949e; font-weight: 500; letter-spacing: 1px; margin: 0 0 32px;">Featured Work</h2>
@@ -72,11 +68,7 @@
       </p>
     </td>
     <td width="33%" valign="top" style="padding: 0 0 0 10px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; overflow: hidden;">
-        <div style="background: #0d1117; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-          <span style="color: #3fb950; font-family: monospace; font-size: 0.8rem;">$ python phoenix.py</span>
-        </div>
-      </div>
+      <div style="background: #0d1117; border: 1px solid #21262d; border-radius: 10px; min-height: 120px;"></div>
       <h3 style="margin: 14px 0 2px; font-size: 1.1rem; font-weight: 600;">Phoenix</h3>
       <p style="color: #d29922; font-size: 0.75rem; margin: 0 0 6px;">● Beta</p>
       <p style="color: #8b949e; font-size: 0.85rem; margin: 0 0 10px;">AI desktop assistant with LLM planning and cross-app automation.</p>
@@ -88,10 +80,6 @@
 </table>
 
 <br/>
-<br/>
-
----
-
 <br/>
 <br/>
 
@@ -108,10 +96,6 @@
 </p>
 
 <br/>
-<br/>
-
----
-
 <br/>
 <br/>
 
@@ -133,36 +117,34 @@
 
 <br/>
 <br/>
-
----
-
-<br/>
 <br/>
 
 <h2 align="center" style="font-size: 1.1rem; color: #8b949e; font-weight: 500; letter-spacing: 1px; margin: 0 0 24px;">Current Focus</h2>
 
-<table align="center" style="max-width: 520px;">
+<table align="center" style="max-width: 600px;">
   <tr>
-    <td width="50%" valign="top" style="padding: 0 8px 0 0;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 18px;">
+    <td width="33%" valign="top" style="padding: 0 6px 0 0;">
+      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 16px;">
         <p style="margin: 0 0 2px; font-size: 0.85rem;"><strong style="color: #e6edf3;">Building</strong></p>
-        <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Event-driven systems with CQRS</p>
+        <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Event-driven with CQRS</p>
       </div>
     </td>
-    <td width="50%" valign="top" style="padding: 0 0 0 8px;">
-      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 18px;">
+    <td width="33%" valign="top" style="padding: 0 6px;">
+      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 16px;">
         <p style="margin: 0 0 2px; font-size: 0.85rem;"><strong style="color: #e6edf3;">Learning</strong></p>
-        <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Kubernetes, distributed systems</p>
+        <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Kubernetes, distributed</p>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="padding: 0 0 0 6px;">
+      <div style="background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 16px;">
+        <p style="margin: 0 0 2px; font-size: 0.85rem;"><strong style="color: #e6edf3;">Next Goal</strong></p>
+        <p style="margin: 0; color: #8b949e; font-size: 0.8rem;">Scalable backend systems</p>
       </div>
     </td>
   </tr>
 </table>
 
 <br/>
-<br/>
-
----
-
 <br/>
 <br/>
 
