@@ -1,81 +1,159 @@
 # Jana Karthik Siva Teja
 
-**Java Backend Engineer | Spring Boot · React · PostgreSQL**
+Software Engineer · Spring Boot · React · PostgreSQL
 
-[LinkedIn](https://linkedin.com/in/karthik-siva-teja-jana-a367a0275) · [Email](mailto:karthikshivatejaj@gmail.com) · [Resume](jana_karthik_siva_teja_Resume.pdf)
+[LinkedIn](https://linkedin.com/in/karthik-siva-teja-jana-a367a0275) · [Email](mailto:karthikshivatejaj@gmail.com) · [GitHub](https://github.com/karthikJKST) · [Resume](jana_karthik_siva_teja_Resume.pdf)
 
 ---
 
 ## About
 
-Computer Science undergraduate at VIT-AP (2022–2026) building production-grade full-stack applications with Spring Boot, React, and PostgreSQL. Focused on clean architecture, REST API design, authentication systems, and cloud deployment.
+Computer Science undergraduate at VIT-AP building production-grade software. I design and deploy full-stack applications with Spring Boot, React, PostgreSQL, and Docker — focusing on clean architecture, REST API design, authentication systems, and cloud infrastructure.
 
 ---
 
-## Tech Stack
+## Engineering
 
-**Backend:** Java 21, Spring Boot 3, Spring Security, JPA/Hibernate, JWT, Flyway, REST APIs  
-**Frontend:** React 19, TypeScript, Tailwind CSS, Vite, React Query  
-**Database:** PostgreSQL, MongoDB, SQLite, H2  
-**DevOps:** Docker, Docker Compose, CI/CD (GitHub Actions), Vercel, Render, Neon  
-**AI/ML:** Python, TensorFlow, Scikit-learn, Gemini API  
-**Tools:** Git, IntelliJ, VS Code, Maven, Postman
+```
+Languages:     Java, Python, JavaScript, TypeScript, SQL
+Backend:       Spring Boot 3, Spring Security, JPA/Hibernate, JWT, FastAPI, Node.js
+Frontend:      React 19, TypeScript, Tailwind CSS, Vite, React Query
+Database:      PostgreSQL, MongoDB, SQLite, H2, Flyway
+Infrastructure: Docker, Docker Compose, GitHub Actions, Nginx, Vercel, Render
+AI/ML:         TensorFlow, Scikit-learn, CNN, Transfer Learning, Gemini API
+Tools:         Git, Maven, IntelliJ, Postman, Linux
+```
 
 ---
 
 ## Projects
 
-### [WeekDays](https://github.com/karthikJKST/WeekDays) — Project Management Platform
-Spring Boot 3 · Java 21 · React 19 · TypeScript · PostgreSQL · Docker · CI/CD
+### WeekDays
+Production-grade project management platform with Kanban boards, task tracking, calendar views, and real-time notifications.
 
-Production-grade project management system with Kanban boards, task management, calendar views, analytics dashboards, and real-time notifications. Features JWT authentication with refresh tokens, Flyway database migrations, and full Docker Compose orchestration.
+**Stack:** Spring Boot 3 · Java 21 · React 19 · TypeScript · PostgreSQL · Docker · JWT · Flyway
 
-[Live Demo](https://weekdays-gules.vercel.app) · [Backend API](https://weekdays-nznb.onrender.com)
+**Engineering:**
+- JWT authentication with access/refresh token rotation
+- Layered architecture: Controllers → Services → JPA Repositories
+- Database migrations via Flyway with PostgreSQL
+- Multi-stage Docker builds with health checks and non-root user
+- Docker Compose orchestration (PostgreSQL + API + Nginx frontend)
+- Demo login for instant evaluation
 
-### [StockFlow](https://github.com/karthikJKST/StockFlow) — Stock Market Intelligence
-Spring Boot 3 · Java 21 · React · TypeScript · PostgreSQL · WebSocket
-
-Real-time stock market platform with live quotes, technical indicators (SMA, EMA, RSI, MACD, Bollinger Bands), portfolio tracking, stock screener, comparison tools, and news sentiment analysis. Implements WebSocket streaming and paper trading.
-
-[Live Demo](https://stock-flow-ashen.vercel.app)
-
-### [AI-Career-Assistant (HirePilot)](https://github.com/karthikJKST/AI-Career-Assistant)
-FastAPI · Python · React · Gemini API · SQLite
-
-AI-powered interview preparation platform with real-time feedback, ATS resume matching using Gemini AI, voice support (speech-to-text/text-to-speech), JWT authentication, rate limiting, and downloadable PDF performance reports.
-
-### [PHOENIX](https://github.com/karthikJKST/PHOENIX) — AI Desktop Assistant
-Python · LLM Integration · Desktop Automation
-
-Modular AI assistant that automates desktop tasks, browser control, file management, and multi-step workflows through natural language commands with voice interface support.
-
-### [Diabetic Retinopathy Detection](https://github.com/karthikJKST/Diabetic_retinopathy)
-TensorFlow · CNN · ResNet50 · Python · Flask · OpenCV
-
-Deep learning system using CNN and ResNet50 architectures to classify retinal images for early detection of diabetic retinopathy, with a web UI for image upload and analysis.
+[Source](https://github.com/karthikJKST/WeekDays) · [Live Demo](https://weekdays-gules.vercel.app) · [API Health](https://weekdays-nznb.onrender.com/actuator/health)
 
 ---
 
-## GitHub Analytics
+### StockFlow
+Real-time stock market intelligence platform with live quotes, technical analysis indicators, and paper trading.
 
-<p align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=karthikJKST&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikJKST&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-</p>
+**Stack:** Spring Boot 3 · Java 21 · React · TypeScript · PostgreSQL · WebSocket · Finnhub API
+
+**Engineering:**
+- Real-time price streaming via STOMP WebSocket
+- Technical indicators: SMA, EMA, RSI, MACD, Bollinger Bands
+- Portfolio tracking with P&L calculation and allocation charts
+- Stock screener with multi-criteria filtering
+- CI/CD pipeline (GitHub Actions: build, test, typecheck, Docker)
+- Graceful fallback from live API to simulated data
+
+[Source](https://github.com/karthikJKST/StockFlow) · [Live Demo](https://stock-flow-ashen.vercel.app)
+
+---
+
+### AI-Career-Assistant
+AI-powered interview preparation and resume analysis platform.
+
+**Stack:** FastAPI · Python · React · Gemini API · SQLite · JWT
+
+**Engineering:**
+- AI-generated interview questions from resume parsing (PyMuPDF)
+- Real-time answer evaluation across 7 scoring dimensions
+- ATS resume matching against job descriptions via Gemini
+- JWT authentication with rate limiting (SlowAPI)
+- Voice support: speech-to-text and text-to-speech
+- PDF report generation with performance metrics
+
+[Source](https://github.com/karthikJKST/AI-Career-Assistant)
+
+---
+
+### PHOENIX
+AI-powered desktop operating assistant for multi-step task automation.
+
+**Stack:** Python · LLM Integration · Desktop Automation · Speech Recognition
+
+**Engineering:**
+- Modular plugin architecture with 20+ action modules
+- LLM-based planning engine for multi-step goal decomposition
+- Voice command pipeline (speech recognition + TTS)
+- Cross-application desktop automation (PyAutoGUI, window management)
+
+[Source](https://github.com/karthikJKST/PHOENIX)
+
+---
+
+### Diabetic Retinopathy Detection
+Deep learning system for classifying retinal images.
+
+**Stack:** TensorFlow · CNN · ResNet50 · Python · Flask · OpenCV
+
+**Engineering:**
+- Custom CNN and transfer learning (ResNet50) architectures
+- Image preprocessing pipeline with OpenCV
+- Web interface for model inference
+- Flask deployment with gunicorn
+
+[Source](https://github.com/karthikJKST/Diabetic_retinopathy)
+
+---
+
+### Portfolio Website
+Personal developer portfolio showcasing projects and skills.
+
+**Stack:** React · JavaScript · CSS · Vite · Framer Motion
+
+**Engineering:**
+- Component-based architecture with glassmorphism design
+- Intersection Observer-based scroll animations
+- Responsive layout system
+- Cloudflare Pages deployment
+
+[Source](https://github.com/karthikJKST/karthik-portfolio)
+
+---
+
+## Production Features
+
+Across these projects, I've implemented:
+
+- JWT authentication with refresh tokens
+- REST API design with layered architecture
+- Database migrations and schema management
+- Docker containerization with multi-stage builds
+- CI/CD pipelines (GitHub Actions)
+- WebSocket real-time communication
+- Rate limiting and input validation
+- Secure password hashing (BCrypt)
+- CORS configuration for production deployment
+- Health checks and monitoring endpoints
+
+---
+
+## Currently
+
+**Building:** Advanced Spring Boot patterns — event-driven architecture, CQRS, and message queues.
+
+**Learning:** Kubernetes, system design for distributed applications, advanced testing strategies.
 
 ---
 
 ## Certifications
 
-- **MongoDB Associate Database Administrator** — MongoDB (July 2025)
-- **AI using Google TensorFlow** — SmartInternz (2025)
+- MongoDB Associate Database Administrator — MongoDB (July 2025)
+- AI using Google TensorFlow — SmartInternz (2025)
 
 ---
 
-## Currently Learning
-
-- Advanced Spring Boot patterns (event-driven architecture, CQRS)
-- Kubernetes container orchestration
-- System design for distributed applications
-
-*Open to software engineering opportunities — Java Backend, Full Stack, or general Software Engineering roles.*
+*Open to software engineering opportunities. Focused on Java backend, full-stack development, and distributed systems.*
